@@ -5,7 +5,7 @@ Program służy do wczytywania danych uczniów z pliku tekstowego, zapisania ich
 
 Program obsługuje maksymalnie 30 uczniów.
 
-##Klasa Person
+## Klasa Person
 
 Dane jednego ucznia są przechowywane w klasie:
 
