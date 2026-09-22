@@ -9,14 +9,14 @@ Program obsługuje maksymalnie 30 uczniów.
 
 Dane jednego ucznia są przechowywane w klasie:
 
-```cpp
+`
 class Person
 {
     string firstName;
     string lastName;
     int age;
 };
-
+`
 ## Wczytywanie danych
 
 Dane uczniów są wczytywane z pliku uczniowie.txt.
